@@ -1,0 +1,1 @@
+This repository demonstrates a common error in Hack related to optional integer parameters and null values. The `foo` function is designed to add 1 to an integer, however, if a null value is passed, a runtime error occurs.  The solution showcases how to handle nulls gracefully using a conditional check.
